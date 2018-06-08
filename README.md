@@ -10,6 +10,7 @@ And the execute the below command to run the tests
 ```javascript
 sbt test
 ```
-
+## TO DO
+Command line switch to change the browser.
 
 > Feel free to modify it to your own needs :)
