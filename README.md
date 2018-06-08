@@ -6,5 +6,10 @@ Create the Page Objects of your Web application under **_pageobjects_** package,
 
 ### How to run?
 Make sure you have [sbt](https://www.scala-sbt.org/download.html) downloaded and configured in path
+And the execute the below command to run the tests
+```javascript
+sbt test
+```
+
 
 > Feel free to modify it to your own needs :)
